@@ -2,9 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9f8aa9f-a990-4d85-9f80-ceb4f4450e72" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/案例/Test/Table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/案例/03外链/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/案例/01 表格初识.html" beforeDir="false" afterPath="$PROJECT_DIR$/案例/01 表格初识.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/案例/01 表格初识.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/案例/03 合并单元格.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/案例/04 input控件.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/案例/05 label标签.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/案例/06 表单域.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/案例/07 html版的样式.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/案例/08 江南.html" beforeDir="false" afterPath="$PROJECT_DIR$/案例/01忆江南/忆江南.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/案例/09 外链.html" beforeDir="false" afterPath="$PROJECT_DIR$/案例/03外链/外链.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/案例/10 类选择器.html" beforeDir="false" afterPath="$PROJECT_DIR$/案例/04类选择器/类选择器.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/案例/11 google.html" beforeDir="false" afterPath="$PROJECT_DIR$/案例/05google/google.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/案例/btn.png" beforeDir="false" afterPath="$PROJECT_DIR$/案例/06世纪佳缘/images/btn.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/案例/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/案例/综合案例/demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/案例/06世纪佳缘/demo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/案例/综合案例/images/btn.png" beforeDir="false" afterPath="$PROJECT_DIR$/案例/06世纪佳缘/images/btn.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/案例/综合案例/images/ico1.png" beforeDir="false" afterPath="$PROJECT_DIR$/案例/06世纪佳缘/images/ico1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/案例/综合案例/images/ico2.png" beforeDir="false" afterPath="$PROJECT_DIR$/案例/06世纪佳缘/images/ico2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/案例/综合案例/images/ico3.png" beforeDir="false" afterPath="$PROJECT_DIR$/案例/06世纪佳缘/images/ico3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/案例/综合案例/images/login.png" beforeDir="false" afterPath="$PROJECT_DIR$/案例/06世纪佳缘/images/login.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/案例/综合案例/images/man.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/案例/06世纪佳缘/images/man.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/案例/综合案例/images/women.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/案例/06世纪佳缘/images/women.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/案例/综合案例/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/案例/06世纪佳缘/login.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,24 +39,26 @@
     <session id="950149428">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="1" />
-          <entry key="html" value="9" />
+          <entry key="css" value="2" />
+          <entry key="html" value="15" />
           <entry key="md" value="1" />
+          <entry key="png" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="1" />
-          <entry key="HTML" value="9" />
+          <entry key="CSS" value="2" />
+          <entry key="HTML" value="15" />
+          <entry key="Image" value="1" />
           <entry key="Markdown" value="1" />
         </counts>
       </usages-collector>
@@ -54,40 +76,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/案例/04 input控件.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="96" column="8" lean-forward="true" selection-start-line="96" selection-start-column="8" selection-end-line="96" selection-end-column="8" />
-              <folding>
-                <element signature="n#style#0;n#h4#0;n#caption#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#0;n#td#1;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/案例/05 label标签.html">
+        <entry file="file://$PROJECT_DIR$/案例/06世纪佳缘/demo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            <state relative-caret-position="270">
+              <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/案例/07 html版的样式.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/案例/08 江南.html">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -117,7 +112,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
@@ -127,7 +122,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -144,12 +138,25 @@
               <item name="WEB_CssStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="WEB_CssStudy" type="462c0819:PsiDirectoryNode" />
               <item name="案例" type="462c0819:PsiDirectoryNode" />
+              <item name="05google" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WEB_CssStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WEB_CssStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="案例" type="462c0819:PsiDirectoryNode" />
+              <item name="06世纪佳缘" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WEB_CssStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WEB_CssStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="案例" type="462c0819:PsiDirectoryNode" />
               <item name="Test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -159,6 +166,12 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/案例/03外链" />
+      <recent name="$PROJECT_DIR$/案例/04类选择器" />
+      <recent name="$PROJECT_DIR$/案例/04google" />
+      <recent name="$PROJECT_DIR$/案例/01江南" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/查阅手册" />
@@ -188,22 +201,22 @@
       <updated>1558522390037</updated>
       <workItem from="1558522391614" duration="359000" />
       <workItem from="1558672627871" duration="1280000" />
-      <workItem from="1558959347130" duration="2528000" />
+      <workItem from="1558959347130" duration="2595000" />
+      <workItem from="1559007232749" duration="1041000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4167000" />
+    <option name="totallyTimeSpent" value="5275000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32913166" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -211,7 +224,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32913166" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.31792718" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -234,9 +247,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/案例/css/style.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/案例/Test/Table.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="259">
@@ -258,20 +268,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/案例/08 江南.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/案例/07 html版的样式.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/案例/04 input控件.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="96" column="8" lean-forward="true" selection-start-line="96" selection-start-column="8" selection-end-line="96" selection-end-column="8" />
+        <state relative-caret-position="1440">
+          <caret line="96" column="8" selection-start-line="96" selection-start-column="8" selection-end-line="96" selection-end-column="8" />
           <folding>
             <element signature="n#style#0;n#h4#0;n#caption#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#input#0;n#td#1;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -282,7 +282,65 @@
     <entry file="file://$PROJECT_DIR$/案例/05 label标签.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/案例/06 表单域.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/案例/07 html版的样式.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/案例/02 小说排行榜/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/案例/04类选择器/类选择器.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/案例/01忆江南/忆江南.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/案例/03外链/css/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/案例/03外链/外链.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/案例/05google/google.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/案例/btn.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/案例/06世纪佳缘/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
         </state>
       </provider>
     </entry>
