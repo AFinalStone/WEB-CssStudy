@@ -2,225 +2,62 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9f8aa9f-a990-4d85-9f80-ceb4f4450e72" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/02案例/01 多类名选择器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02案例/02 id选择器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02案例/03 通配符选择器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02案例/04 综合案例.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02案例/05 字体连写.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02案例/06 文本修饰.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02案例/07 开发者工具.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02案例/08 后代选择器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02案例/09 子代选择器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02案例/10 后代子代选择器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02案例/11 交集选择器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02案例/12 并集选择器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02案例/13 伪类链接.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02案例/14 实际开发中的伪类链接.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02案例/15 测试题.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02案例/16 sublime快捷.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02案例/17 元素的显示模式.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02案例/18 显示模式转换.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02案例/19 课堂练习.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02案例/20 导航栏/images/bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02案例/20 导航栏/images/bgc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02案例/20 导航栏/nav.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02案例/21 交集选择器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03案例/01 多类名选择器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03案例/02 id选择器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03案例/03 通配符选择器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03案例/04 综合案例.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03案例/05 字体连写.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03案例/06 文本修饰.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03案例/07 开发者工具.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03案例/08 后代选择器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03案例/09 子代选择器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03案例/10 后代子代选择器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03案例/11 交集选择器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03案例/12 并集选择器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03案例/13 伪类链接.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03案例/14 实际开发中的伪类链接.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03案例/15 测试题.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03案例/16 sublime快捷.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03案例/17 元素的显示模式.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03案例/18 显示模式转换.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03案例/19 课堂练习.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03案例/20 导航栏/images/bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03案例/20 导航栏/images/bgc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03案例/20 导航栏/nav.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03案例/21 交集选择器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/01 注意点.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/02 书写规范.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/03 行高.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/04 尖叫导航栏/demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/04 尖叫导航栏/images/bg1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/04 尖叫导航栏/images/bg2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/04 尖叫导航栏/images/bg3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/04 尖叫导航栏/images/bg3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/04 尖叫导航栏/images/bg4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/04 尖叫导航栏/images/bg5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/04 尖叫导航栏/images/bg6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/04 尖叫导航栏/images/bg7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/04 层叠性.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/05 j继承性.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/06 优先级.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/07 权重计算.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/08 继承的权重为0.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/09 背景.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/10 魔兽.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/11 购物车/110.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/11 购物车/car.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/12 背景半透明.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/13 盒子模型之边框.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/14 表单边框.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/15 表格细线边框.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/16 内边距.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/17 新浪导航.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/18 内边距问题.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/19 内边距问题2计算.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/20 大小盒子.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/21 新闻列表.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/css 权重精华6题/CSS优先级第1题.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/css 权重精华6题/CSS优先级第2题.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/css 权重精华6题/CSS优先级第3题.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/css 权重精华6题/CSS优先级第4题.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/css 权重精华6题/CSS优先级第5题.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/css 权重精华6题/CSS优先级第6题.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/images/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/images/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/images/h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/images/king.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/images/l.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/images/l.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/images/ms.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/images/sm.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/搜索趣图-要做/images/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/搜索趣图-要做/images/happy.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/搜索趣图-要做/images/square.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/搜索趣图-要做/images/sun.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/搜索趣图-要做/搜索趣图4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/新闻列表-要做/images/bg.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/新闻列表-要做/images/tb.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/新闻列表-要做/news.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/能力掌握.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/鲁能-能者做/img.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/鲁能-能者做/文字.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/鲁能-能者做/鲁能.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05案例/01 盒子水平居中.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05案例/02 外边距合并.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05案例/03 外边距塌陷.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05案例/04 盒子默认宽度.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05案例/05 圆角边框.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05案例/06 圆角案例.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05案例/07 盒子阴影.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05案例/08 体会浮动.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05案例/09 浮动特性-父盒子.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05案例/10 浮动特性-对齐.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05案例/11 浮动有隐藏模式转换.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05案例/12 一列固定宽度且居中.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05案例/13 左右型结构.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05案例/13 通栏结构.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05案例/14 云道页面/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05案例/14 云道页面/images/banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05案例/14 云道页面/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05案例/14 云道页面/images/ser.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05案例/14 云道页面/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06案例/01 为什么清除浮动.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06案例/02 额外标签法.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06案例/03 overflow 清除浮动.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06案例/04 after伪元素清除浮动.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06案例/05 双伪元素清除浮动.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06案例/06 相对定位.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06案例/07 绝对定位.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06案例/08 父亲没定位.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06案例/09 父亲有定位.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06案例/10 哈根达斯.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06案例/11 2个小问题.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06案例/12 定位的盒子居中对齐.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06案例/13 顺丰.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06案例/14 淘宝轮播图.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06案例/15 固定定位.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06案例/16 固定广告案例.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06案例/17 定位模式转换.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06案例/18 z-index叠放次序.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06案例/19 一个有意思的例子.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06案例/images/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06案例/images/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06案例/images/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06案例/images/ad-l.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06案例/images/ad-r.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06案例/images/adv.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06案例/images/bl.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06案例/images/box.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06案例/images/br.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06案例/images/erweima.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06案例/images/icon1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06案例/images/left.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06案例/images/right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06案例/images/sf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06案例/images/sun.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06案例/images/taobao.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06案例/images/tb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06案例/images/top.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06案例/images/top_tu.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06案例/images/yifan.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06案例/云道页面/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06案例/云道页面/images/banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06案例/云道页面/images/icon1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06案例/云道页面/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06案例/云道页面/images/ser.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06案例/云道页面/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06案例/考题/btn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06案例/考题/demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06案例/考题/star.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07案例/01 显示与隐藏.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07案例/02 仿土豆显示透明盒子.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07案例/03 溢出隐藏.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07案例/04 鼠标样式.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07案例/05 轮廓线.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07案例/06 vertical-align你要知道.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07案例/07 溢出文字省略号.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07案例/08  精灵图使用.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07案例/09 拼出自己名字.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07案例/10 滑动门.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07案例/11 微信滑动门.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07案例/images/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07案例/images/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07案例/images/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07案例/images/abcd.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07案例/images/ao.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07案例/images/arr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07案例/images/case.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07案例/images/index.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07案例/images/jd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07案例/images/mi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07案例/images/s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07案例/images/sp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07案例/images/to.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07案例/images/tudou.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07案例/images/wx.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07案例/云道页面/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07案例/云道页面/images/banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07案例/云道页面/images/case.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07案例/云道页面/images/fdj.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07案例/云道页面/images/icon1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07案例/云道页面/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07案例/云道页面/images/pro.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07案例/云道页面/images/pro1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07案例/云道页面/images/ser.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07案例/云道页面/images/tb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07案例/云道页面/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07案例/挑错题/03 sohu/images/_notes/header_r_bg.jpg.mno" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07案例/挑错题/03 sohu/images/_notes/img1.jpg.mno" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07案例/挑错题/03 sohu/images/_notes/img2.jpg.mno" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07案例/挑错题/03 sohu/images/_notes/logo.jpg.mno" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07案例/挑错题/03 sohu/images/header_r_bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07案例/挑错题/03 sohu/images/img1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07案例/挑错题/03 sohu/images/img2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07案例/挑错题/03 sohu/images/logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07案例/挑错题/03 sohu/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07案例/挑错题/03 sohu/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07案例/挑错题/完整效果.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07案例/练习.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04案例/Test/images/xiaopang.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04案例/Test/搜索趣图.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04案例/Test/最新文章.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07案例/前端基础第七天总结.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/01 复习.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/02 字体图标引用.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/03 行高不带单位.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/fonts/icomoon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/fonts/icomoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/fonts/icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/fonts/icomoon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/jd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/jd/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/jd/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/jd/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/jd/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/jd/fonts/icomoon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/jd/fonts/icomoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/jd/fonts/icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/jd/fonts/icomoon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/jd/images/computer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/jd/images/erweima.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/jd/images/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/jd/images/sprite-search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/jd/images/top.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/jd/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/京东首页/2017-12-12_210506.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/京东首页/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/京东首页/icomoon.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/京东首页/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/京东首页/京东/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/京东首页/京东/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/京东首页/京东/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/京东首页/京东/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/京东首页/京东/fonts/icomoon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/京东首页/京东/fonts/icomoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/京东首页/京东/fonts/icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/京东首页/京东/fonts/icomoon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/京东首页/京东/images/ad-l.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/京东首页/京东/images/ad-r.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/京东首页/京东/images/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/京东首页/京东/images/header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/京东首页/京东/images/ico.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/京东首页/京东/images/ico_footer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/京东首页/京东/images/l.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/京东首页/京东/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/京东首页/京东/images/mobile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/京东首页/京东/images/no_login.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/京东首页/京东/images/r.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/京东首页/京东/images/sprite_fs@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/京东首页/京东/images/sprite_userinfo@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/京东首页/京东/images/super.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/京东首页/京东/images/toolbars.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/京东首页/京东/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08案例/京东首页/手机.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -236,111 +73,53 @@
     <session id="950149428">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="2" />
-          <entry key="html" value="28" />
+          <entry key="gif" value="4" />
+          <entry key="html" value="50" />
+          <entry key="jpg" value="6" />
           <entry key="md" value="3" />
-          <entry key="png" value="1" />
-          <entry key="txt" value="1" />
+          <entry key="png" value="3" />
+          <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="2" />
-          <entry key="HTML" value="28" />
-          <entry key="Image" value="1" />
+          <entry key="HTML" value="50" />
+          <entry key="Image" value="13" />
           <entry key="Markdown" value="3" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="622" />
+          <entry key="html" value="1257" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="622" />
+          <entry key="HTML" value="1257" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-1750">
-                <folding>
-                  <element signature="n#style#0;n#标签名#0;n#!!top" expanded="true" />
-                  <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-                  <element signature="n#style#0;n#input#0;n#!!top" expanded="true" />
-                  <element signature="n#style#0;n#textarea#0;n#!!top" expanded="true" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02案例/07 开发者工具.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03案例/09 子代选择器.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04案例/01 注意点.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05案例/01 盒子水平居中.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/06案例/08 父亲没定位.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07案例/08  精灵图使用.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03案例/14 实际开发中的伪类链接.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03案例/15 测试题.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/04案例/能力掌握.txt">
+        <entry file="file://$PROJECT_DIR$/08案例/京东首页/京东/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="225">
+              <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -369,6 +148,9 @@
         <option value="$PROJECT_DIR$/01案例/07分割线/保障协议.html" />
         <option value="$PROJECT_DIR$/03案例/14 实际开发中的伪类链接.html" />
         <option value="$PROJECT_DIR$/04案例/能力掌握.txt" />
+        <option value="$PROJECT_DIR$/04案例/Test/New Articles.html" />
+        <option value="$PROJECT_DIR$/04案例/Test/New_Articles.html" />
+        <option value="$PROJECT_DIR$/04案例/Test/搜索趣图.html" />
       </list>
     </option>
   </component>
@@ -388,6 +170,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -398,18 +181,12 @@
             <path>
               <item name="WEB_CssStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="WEB_CssStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="04案例" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WEB_CssStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WEB_CssStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="查阅手册" type="462c0819:PsiDirectoryNode" />
+              <item name="07案例" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -419,18 +196,18 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/07案例" />
+      <recent name="$PROJECT_DIR$/08案例/综合案例" />
+      <recent name="$PROJECT_DIR$/08案例" />
+      <recent name="$PROJECT_DIR$/04案例/Test/images" />
+      <recent name="$PROJECT_DIR$/05案例" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/案例/03外链" />
       <recent name="$PROJECT_DIR$/案例/04类选择器" />
       <recent name="$PROJECT_DIR$/案例/04google" />
       <recent name="$PROJECT_DIR$/案例/01江南" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/04案例" />
-      <recent name="$PROJECT_DIR$/07案例" />
-      <recent name="$PROJECT_DIR$/06案例" />
-      <recent name="$PROJECT_DIR$/05案例" />
-      <recent name="$PROJECT_DIR$/03案例" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -458,16 +235,16 @@
       <workItem from="1558522391614" duration="359000" />
       <workItem from="1558672627871" duration="1280000" />
       <workItem from="1558959347130" duration="2595000" />
-      <workItem from="1559007232749" duration="9647000" />
+      <workItem from="1559007232749" duration="10476000" />
+      <workItem from="1559785004414" duration="4338000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13881000" />
+    <option name="totallyTimeSpent" value="19048000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2907069" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -488,6 +265,26 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2907069" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32913166" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.31792718" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -496,52 +293,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/案例/01 表格初识.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/案例/03 合并单元格.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/案例/04 input控件.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1440">
-          <caret line="96" column="8" selection-start-line="96" selection-start-column="8" selection-end-line="96" selection-end-column="8" />
-          <folding>
-            <element signature="n#style#0;n#h4#0;n#caption#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#td#1;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/案例/05 label标签.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/案例/06 表单域.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/案例/07 html版的样式.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/案例/07 html版的样式.html" />
     <entry file="file://$PROJECT_DIR$/01案例/04类选择器/类选择器.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -562,9 +314,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/案例/btn.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/案例/btn.png" />
     <entry file="file://$PROJECT_DIR$/01案例/06世纪佳缘/demo.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -597,9 +347,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="237">
           <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -607,23 +354,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
           <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-          <folding>
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1750">
-            <folding>
-              <element signature="n#style#0;n#标签名#0;n#!!top" expanded="true" />
-              <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-              <element signature="n#style#0;n#input#0;n#!!top" expanded="true" />
-              <element signature="n#style#0;n#textarea#0;n#!!top" expanded="true" />
-            </folding>
-          </first_editor>
+          <first_editor />
           <second_editor />
         </state>
       </provider>
@@ -656,10 +393,169 @@
     <entry file="file://$PROJECT_DIR$/03案例/15 测试题.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/04案例/21 新闻列表.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="19" selection-start-line="24" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04案例/04 尖叫导航栏/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04案例/11 购物车/110.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04案例/11 购物车/car.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04案例/css 权重精华6题/CSS优先级第1题.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04案例/搜索趣图-要做/images/sun.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04案例/搜索趣图-要做/images/square.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04案例/搜索趣图-要做/images/happy.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04案例/Test/最新文章.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="33" column="3" selection-start-line="33" selection-start-column="3" selection-end-line="41" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04案例/搜索趣图-要做/搜索趣图4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04案例/Test/搜索趣图.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04案例/新闻列表-要做/images/bg.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04案例/新闻列表-要做/images/tb.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04案例/新闻列表-要做/news.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-145">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04案例/鲁能-能者做/鲁能.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1275">
+          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/04案例/能力掌握.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05案例/导航栏案例/images/button1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05案例/导航栏案例/images/banner_bg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05案例/导航栏案例/images/banner1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05案例/导航栏案例/images/button1_bg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05案例/导航栏案例/images/button2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05案例/导航栏案例/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="18" column="58" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05案例/14 云道页面/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07案例/02 仿土豆显示透明盒子.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08案例/01 复习.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08案例/02 字体图标引用.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08案例/03 行高不带单位.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08案例/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08案例/jd/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08案例/京东首页/京东/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
         </state>
       </provider>
     </entry>
