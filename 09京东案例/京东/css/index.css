@@ -35,7 +35,7 @@
 	/* z这个盒子做动画，所以给它添加过渡 */
 	transition: all 0.8s;
 }
-.ad:hover .ad-r {  
+.ad:hover .ad-r {
 	/* 鼠标经过 ad 这个广告大盒子的时候， 里面的这个叫 ad-r的盒子的宽度由0变为 990 */
 	width: 990px;
 }
@@ -156,7 +156,7 @@
 	left: 0;
 	top: 0;
 	background: url(../images/sprite_userinfo@1x.png) no-repeat -70px 0;
-	
+
 }
 .login-b a {
 	display: inline-block;
@@ -226,7 +226,7 @@
 	overflow: hidden; /* expand 这个宽度继承了 父亲 190宽度 */
 }
 .expand ul {
-	width: 195px; /*  父亲是 190 但是里面的li 宽度超过了190 摆放不开 4个li 此时 让ul 宽度变大 */ 
+	width: 195px; /*  父亲是 190 但是里面的li 宽度超过了190 摆放不开 4个li 此时 让ul 宽度变大 */
 }
 .expand  li {
 	width: 47px;

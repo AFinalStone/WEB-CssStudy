@@ -1,23 +1,57 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="UTF-8">
-	<title>Document</title>
-	<style>
-	h3 {
-		background: url(images/index.png) no-repeat -2px -184px;
-		width: 26px;
-		height: 26px;
-	}
-	div {
-		width: 236px;
-		height: 106px;
-		background: url(images/index.png) no-repeat 0 -350px;
-	}
-	</style>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <style>
+        h3 {
+            background: url(images/index.png) no-repeat -2px -184px;
+            width: 26px;
+            height: 26px;
+        }
+
+        div {
+            width: 236px;
+            height: 106px;
+            background: url(images/index.png) no-repeat 0 -350px;
+        }
+
+        a {
+            position: relative;
+            display: block;
+            width: 240px;
+            height: 105px;
+        }
+
+        a .new_position {
+            background: url(images/index.png) no-repeat 0 -220px;
+            width: 240px;
+            height: 105px;
+        }
+
+        a .mask {
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            top: 0;
+            left: 0;
+            display: none;
+            background: rgba(0, 0, 0, .4) url(images/arr.png) no-repeat center;
+        }
+
+        a:hover .mask {
+            display: block;
+        }
+    </style>
 </head>
 <body>
-	<h3></h3>
-	<div></div>
+<h3></h3>
+<div></div>
+<a>
+    <div class="new_position"></div>
+    <div class="mask"></div>
+</a>
+
+
 </body>
 </html>

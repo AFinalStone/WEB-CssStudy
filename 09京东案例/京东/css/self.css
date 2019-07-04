@@ -1,0 +1,416 @@
+.stone-header-div {
+    text-align: center; /*可以让盒子内容（文字 行内元素 行内块元素）居中对齐*/
+    height: 110px;
+    background-color: #e3e4e5;
+}
+
+/* 快速导航栏begin */
+.stone-header-navigation {
+    height: 30px;
+    line-height: 30px;
+    background-color: #e3e4e5;
+    border-bottom: 1px solid #ddd;
+}
+
+.stone-header-navigation li {
+    float: left;
+}
+
+.stone-header-navigation i {
+    font-family: "icomoon";
+    font-style: normal; /* 让倾斜的不倾斜 */
+    color: #ccc;
+}
+
+.stone-middle-top {
+    height: 140px;
+    position: relative;
+}
+
+.stone-logo {
+    position: absolute;
+    top: -30px;
+    left: 0;
+    box-shadow: 0px -10px 10px rgba(0, 0, 0, .3);
+}
+
+.stone-logo a {
+    display: block;
+    width: 190px;
+    height: 170px;
+    background: #fff url(../images/logo.png) no-repeat;
+}
+
+.stone-search {
+    width: 550px;
+    height: 35px;
+    position: absolute;
+    top: 25px;
+    left: 320px;
+}
+
+.stone-search input {
+    width: 495px;
+    height: 33px;
+    border: 1px solid #f10215;
+    float: left;
+    font-size: 14px;
+    padding-left: 3px;
+}
+
+.stone-search button {
+    width: 50px;
+    height: 35px;
+    background-color: #f10215;
+    float: left;
+}
+
+.stone-search button i {
+    font-family: 'icomoon';
+    font-style: normal;
+    color: #fff;
+}
+
+/* 购物车 */
+.stone-shopCar {
+    width: 188px;
+    height: 33px;
+    line-height: 33px;
+    border: 1px solid #ccc;
+    position: absolute;
+    top: 25px;
+    right: 95px;
+    background-color: #fff;
+    text-align: center;
+    color: #f10215;
+
+}
+
+.stone-shopCar i {
+    font-family: 'icomoon';
+    margin-right: 5px;
+    font-style: normal;
+}
+
+.stone-shopCar span {
+    width: 15px;
+    height: 15px;
+    background-color: #f10215;
+    border-radius: 50%;
+    position: absolute; /* 加了绝对定位 固定定位 浮动的行内元素， 可以不用转换，直接给宽度和高度 */
+    top: 5px;
+    right: 30px;
+    font-size: 12px;
+    color: #fff;
+    line-height: 15px;
+}
+
+.stone-hotWords {
+    position: absolute;
+    top: 68px;
+    left: 320px;
+}
+
+.stone-tab {
+    position: absolute;
+    top: 100px;
+    left: 200px;
+}
+
+.stone-tab li {
+    float: left;
+    padding: 10px;
+}
+
+.stone-superDay {
+    position: absolute;
+    top: 100px;
+    left: 1000px;
+}
+
+.stone-superDay a {
+    display: block;
+    width: 190px;
+    height: 40px;
+    background: #fff url(../images/super.png) no-repeat;
+}
+
+.stone-middle-bottom {
+    height: 475px;
+}
+
+.stone-middle-bottom-grid-col1 {
+    width: 190px;
+    height: 100%;
+    background-color: #6e6568;
+    color: #fff;
+    font-size: 14px; /* 不是给字的，给 /  */
+    position: relative;
+}
+
+.stone-middle-bottom-grid-col2 {
+    width: 790px;
+    height: 100%;
+    margin-left: 15px;
+}
+
+.stone-middle-bottom-grid-col3 {
+    width: 180px;
+    height: 100%;
+    position: relative;
+    margin-left: 10px;
+}
+
+.stone-middle-ad {
+    width: 250px;
+    height: 480px;
+    position: absolute;
+    top: 0;
+    left: -250px;
+}
+
+.stone-middle-ad-r {
+    position: absolute;
+    top: 0;
+    left: 250px;
+    z-index: 999;
+    width: 0;
+    height: 480px;
+    background: url(../images/ad-r.jpg);
+    /* z这个盒子做动画，所以给它添加过渡 */
+    transition: all 0.8s;
+}
+
+.stone-middle-ad:hover .stone-middle-ad-r {
+    /* 鼠标经过 ad 这个广告大盒子的时候， 里面的这个叫 ad-r的盒子的宽度由0变为 990 */
+    width: 990px;
+}
+
+.stone-middle-bottom-grid-col1 a {
+    color: #fff;
+    font-size: 14px; /* 是给链接文字  */
+    margin: 0 3px;
+}
+
+.stone-middle-bottom-grid-col1 a:hover {
+    color: #f10215;
+}
+
+.stone-middle-bottom-grid-col1 ul {
+    padding: 10px 0;
+}
+
+.stone-middle-bottom-grid-col1 ul li {
+    padding-left: 12px;
+    height: 29px;
+    line-height: 26px;
+}
+
+.stone-middle-bottom-grid-col1 ul li:hover {
+    background-color: #9c9698;
+}
+
+.stone-middle-bottom-grid-col2 .top {
+    width: 790px;
+    height: 340px;
+    position: relative;
+    background-color: pink;
+}
+
+.arrow-l, .arrow-r {
+    position: absolute;
+    top: 50%;
+    width: 30px;
+    height: 60px;
+    background: rgba(0, 0, 0, 0.3);
+    transform: translateY(-50%);
+    text-align: center;
+    line-height: 60px;
+    font-size: 20px;
+    color: rgba(255, 255, 255, .6);
+    font-family: arial;
+    font-weight: normal;
+}
+
+.arrow-r {
+    right: 0;
+}
+
+.stone-middle-bottom-grid-col2 ul {
+    width: 105px;
+    height: 21px;
+    background: rgba(255, 255, 255, .3);
+    border-radius: 15px;
+    position: absolute;
+    left: 50%;
+    margin-left: -50px;
+    bottom: 18px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.stone-middle-bottom-grid-col2 li {
+    width: 15px;
+    height: 15px;
+    background-color: white;
+    float: left;
+    margin: 3px;
+    border-radius: 50%;
+}
+
+.stone-middle-bottom-grid-col2 li:hover {
+    background-color: red;
+}
+
+.stone-middle-bottom-grid-col2 .bottom-l, .bottom-r {
+    width: 390px;
+    height: 130px;
+    float: left;
+}
+
+.stone-middle-bottom-grid-col2 .bottom-r {
+    float: right;
+}
+
+.stone-middle-bottom-grid-col3 .login {
+    height: 100px;
+    border-bottom: 1px solid #ccc;
+    background-color: #fff;
+    padding: 15px;
+    width: 115px;
+    line-height: 20px;
+    font-size: 12px;
+    white-space: nowrap; /* 强制一行内显示 */
+    overflow: hidden; /* 溢出隐藏 */
+    text-overflow: ellipsis; /* 超出的部分显示 省略号 */
+    color: #666;
+    position: relative;
+    padding-left: 60px;
+}
+
+.stone-middle-bottom-grid-col3 .loginHeader {
+    width: 50px;
+    height: 50px;
+    display: block;
+    position: absolute;
+    left: 0;
+    text-align: center;
+    top: 0;
+    background: url(../images/sprite_userinfo@1x.png) no-repeat -70px 0;
+}
+
+.stone-middle-bottom-grid-col3 .loginHeader img {
+    width: 40px;
+    border-radius: 50%;
+    margin: 5px;
+}
+
+.stone-middle-bottom-grid-col3 .loginBtnL {
+    display: inline-block;
+    width: 70px;
+    height: 20px;
+    left: 10px;
+    position: absolute;
+    line-height: 20px;
+    border: 2px solid #f10215;
+    margin-right: 3px;
+    text-align: center;
+    color: #f10215;
+}
+
+.stone-middle-bottom-grid-col3 .loginBtnR {
+    display: inline-block;
+    width: 70px;
+    height: 20px;
+    right: 10px;
+    position: absolute;
+    line-height: 20px;
+    border: 2px solid #f10215;
+    margin-right: 3px;
+    text-align: center;
+    color: #f10215;
+}
+
+.stone-middle-bottom-grid-col3 .loginBtn:hover {
+    background-color: #f10215;
+    color: #fff;
+}
+
+.stone-middle-bottom-grid-col3 .sport {
+    height: 155px;
+    border-bottom: 1px solid #ccc;
+    background-color: #fff;
+    padding: 7px 13px 0;
+    box-sizing: border-box;
+}
+
+.stone-middle-bottom-grid-col3 cuxiao {
+    width: 38px;
+
+    border-right: 1px solid #ccc;
+}
+
+.stone-middle-bottom-grid-col3 gg {
+    margin-left: 15px;
+}
+
+.stone-middle-bottom-grid-col3 .more {
+    float: right;
+}
+
+.stone-middle-bottom-grid-col3 .sport-b {
+    padding-top: 15px;
+
+}
+
+.stone-middle-bottom-grid-col3 .sport-b li {
+    height: 23px;
+    line-height: 23px;
+}
+
+.stone-middle-bottom-grid-col3 .mobile {
+    height: 200px;
+    background-color: #fff;
+    overflow: auto; /* expand 这个宽度继承了 父亲 190宽度 */
+}
+
+.mobile ul {
+    width: 195px; /*  父亲是 190 但是里面的li 宽度超过了190 摆放不开 4个li 此时 让ul 宽度变大 */
+}
+
+.mobile li {
+    width: 47px;
+    height: 69px;
+    border-right: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    float: left;
+}
+
+.mobile li a {
+    display: block;
+    padding-top: 15px;
+    text-align: center;
+}
+
+.mobile li i {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    background: url(../images/sprite_fs@1x.png) no-repeat;
+    width: 18px;
+    height: 23px;
+    background-position: -5px -88px;
+}
+
+.mobile li:first-child i {
+    width: 18px;
+    height: 23px;
+    background-position: -5px -88px;
+}
+
+.stone-footer {
+    text-align: center;
+    height: 100%;
+    position: relative;
+    background-color: #e3e4e5;
+}

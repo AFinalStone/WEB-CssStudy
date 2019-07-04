@@ -2,63 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9f8aa9f-a990-4d85-9f80-ceb4f4450e72" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/04案例/Test/images/xiaopang.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/Test/搜索趣图.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04案例/Test/最新文章.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07案例/前端基础第七天总结.xmind" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/01 复习.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/02 字体图标引用.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/03 行高不带单位.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/fonts/icomoon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/fonts/icomoon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/fonts/icomoon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/fonts/icomoon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/jd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/jd/css/base.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/jd/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/jd/css/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/jd/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/jd/fonts/icomoon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/jd/fonts/icomoon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/jd/fonts/icomoon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/jd/fonts/icomoon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/jd/images/computer.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/jd/images/erweima.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/jd/images/logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/jd/images/sprite-search.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/jd/images/top.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/jd/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/京东首页/2017-12-12_210506.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/京东首页/bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/京东首页/icomoon.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/京东首页/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/京东首页/京东/css/base.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/京东首页/京东/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/京东首页/京东/css/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/京东首页/京东/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/京东首页/京东/fonts/icomoon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/京东首页/京东/fonts/icomoon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/京东首页/京东/fonts/icomoon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/京东首页/京东/fonts/icomoon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/京东首页/京东/images/ad-l.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/京东首页/京东/images/ad-r.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/京东首页/京东/images/banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/京东首页/京东/images/header.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/京东首页/京东/images/ico.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/京东首页/京东/images/ico_footer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/京东首页/京东/images/l.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/京东首页/京东/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/京东首页/京东/images/mobile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/京东首页/京东/images/no_login.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/京东首页/京东/images/r.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/京东首页/京东/images/sprite_fs@1x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/京东首页/京东/images/sprite_userinfo@1x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/京东首页/京东/images/super.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/京东首页/京东/images/toolbars.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/京东首页/京东/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08案例/京东首页/手机.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05案例/14 云道页面/Test/Test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05案例/14 云道页面/Test/image/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05案例/14 云道页面/Test/image/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05案例/14 云道页面/Test/image/ser.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05案例/14 云道页面/Test/test.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06案例/13 顺丰Test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06案例/14 淘宝轮播图Test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07案例/02 仿土豆显示透明盒子Test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07案例/11 微信滑动门Test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07案例/练习Test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09京东案例/京东/css/self.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09京东案例/京东/index_test.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04案例/04 层叠性.html" beforeDir="false" afterPath="$PROJECT_DIR$/04案例/04 层叠性.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05案例/01 盒子水平居中.html" beforeDir="false" afterPath="$PROJECT_DIR$/05案例/01 盒子水平居中.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06案例/14 淘宝轮播图.html" beforeDir="false" afterPath="$PROJECT_DIR$/06案例/14 淘宝轮播图.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07案例/02 仿土豆显示透明盒子.html" beforeDir="false" afterPath="$PROJECT_DIR$/07案例/02 仿土豆显示透明盒子.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07案例/03 溢出隐藏.html" beforeDir="false" afterPath="$PROJECT_DIR$/07案例/03 溢出隐藏.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07案例/05 轮廓线.html" beforeDir="false" afterPath="$PROJECT_DIR$/07案例/05 轮廓线.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07案例/06 vertical-align你要知道.html" beforeDir="false" afterPath="$PROJECT_DIR$/07案例/06 vertical-align你要知道.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07案例/07 溢出文字省略号.html" beforeDir="false" afterPath="$PROJECT_DIR$/07案例/07 溢出文字省略号.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07案例/08  精灵图使用.html" beforeDir="false" afterPath="$PROJECT_DIR$/07案例/08  精灵图使用.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07案例/09 拼出自己名字.html" beforeDir="false" afterPath="$PROJECT_DIR$/07案例/09 拼出自己名字.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07案例/10 滑动门.html" beforeDir="false" afterPath="$PROJECT_DIR$/07案例/10 滑动门.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08案例/02 字体图标引用.html" beforeDir="false" afterPath="$PROJECT_DIR$/08案例/02 字体图标引用.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08案例/jd/css/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08案例/jd/css/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08案例/jd/css/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08案例/jd/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08案例/jd/fonts/icomoon.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08案例/jd/fonts/icomoon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08案例/jd/fonts/icomoon.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08案例/jd/fonts/icomoon.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08案例/jd/images/computer.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08案例/jd/images/erweima.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08案例/jd/images/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08案例/jd/images/sprite-search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08案例/jd/images/top.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08案例/jd/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09京东案例/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/09京东案例/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09京东案例/京东/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/09京东案例/京东/css/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09京东案例/京东/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/09京东案例/京东/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09京东案例/京东/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/09京东案例/京东/css/normalize.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -73,53 +59,113 @@
     <session id="950149428">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
-          <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.2" value="1" />
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="2" />
-          <entry key="gif" value="4" />
-          <entry key="html" value="50" />
-          <entry key="jpg" value="6" />
-          <entry key="md" value="3" />
-          <entry key="png" value="3" />
+          <entry key="css" value="51" />
+          <entry key="gif" value="6" />
+          <entry key="html" value="137" />
+          <entry key="jpg" value="21" />
+          <entry key="md" value="4" />
+          <entry key="png" value="25" />
+          <entry key="rnc" value="2" />
+          <entry key="svg" value="2" />
           <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="2" />
-          <entry key="HTML" value="50" />
-          <entry key="Image" value="13" />
-          <entry key="Markdown" value="3" />
+          <entry key="CSS" value="51" />
+          <entry key="HTML" value="137" />
+          <entry key="Image" value="52" />
+          <entry key="Markdown" value="4" />
           <entry key="PLAIN_TEXT" value="2" />
+          <entry key="RNG Compact" value="2" />
+          <entry key="SVG" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="1257" />
+          <entry key="css" value="1287" />
+          <entry key="html" value="3316" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="1257" />
+          <entry key="CSS" value="1287" />
+          <entry key="HTML" value="3316" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/08案例/京东首页/京东/index.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/09京东案例/京东/index_test.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+            <state relative-caret-position="184">
+              <caret line="276" column="17" selection-start-line="276" selection-start-column="17" selection-end-line="276" selection-end-column="17" />
+              <folding>
+                <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#li#1;n#ul#0;n#div#2;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#li#2;n#ul#0;n#div#2;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/09京东案例/京东/css/self.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="499">
+              <caret line="412" column="16" selection-start-line="412" selection-start-column="16" selection-end-line="412" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/09京东案例/京东/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="499">
+              <caret line="372" column="18" selection-start-line="372" selection-end-line="420" />
+              <folding>
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#ul#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#li#0;n#ul#0;n#div#2;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#li#1;n#ul#0;n#div#2;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#li#2;n#ul#0;n#div#2;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#footer#0;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/09京东案例/京东/css/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="914">
+              <caret line="235" column="16" lean-forward="true" selection-start-line="235" selection-start-column="16" selection-end-line="235" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -129,9 +175,22 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fr</find>
+      <find>foot-icon</find>
+      <find>logo</find>
+      <find>mi</find>
+      <find>a</find>
+      <find>stone-middle-bottom-left</find>
+      <find>login-b</find>
+      <find>sport-b</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -151,6 +210,32 @@
         <option value="$PROJECT_DIR$/04案例/Test/New Articles.html" />
         <option value="$PROJECT_DIR$/04案例/Test/New_Articles.html" />
         <option value="$PROJECT_DIR$/04案例/Test/搜索趣图.html" />
+        <option value="$PROJECT_DIR$/05案例/03 外边距塌陷.html" />
+        <option value="$PROJECT_DIR$/05案例/06 圆角案例.html" />
+        <option value="$PROJECT_DIR$/05案例/11 浮动有隐藏模式转换.html" />
+        <option value="$PROJECT_DIR$/05案例/14 云道页面/Test.html" />
+        <option value="$PROJECT_DIR$/05案例/14 云道页面/Test/test.css" />
+        <option value="$PROJECT_DIR$/05案例/14 云道页面/Test/Test.html" />
+        <option value="$PROJECT_DIR$/06案例/14 淘宝轮播图.html" />
+        <option value="$PROJECT_DIR$/06案例/14 淘宝轮播图Test.html" />
+        <option value="$PROJECT_DIR$/06案例/13 顺丰Test.html" />
+        <option value="$PROJECT_DIR$/07案例/02 仿土豆显示透明盒子.html" />
+        <option value="$PROJECT_DIR$/07案例/02 仿土豆显示透明盒子Test.html" />
+        <option value="$PROJECT_DIR$/07案例/03 溢出隐藏.html" />
+        <option value="$PROJECT_DIR$/07案例/05 轮廓线.html" />
+        <option value="$PROJECT_DIR$/07案例/06 vertical-align你要知道.html" />
+        <option value="$PROJECT_DIR$/07案例/07 溢出文字省略号.html" />
+        <option value="$PROJECT_DIR$/07案例/08  精灵图使用.html" />
+        <option value="$PROJECT_DIR$/07案例/09 拼出自己名字.html" />
+        <option value="$PROJECT_DIR$/07案例/10 滑动门.html" />
+        <option value="$PROJECT_DIR$/07案例/11 微信滑动门Test.html" />
+        <option value="$PROJECT_DIR$/07案例/练习Test.html" />
+        <option value="$PROJECT_DIR$/08案例/02 字体图标引用.html" />
+        <option value="$PROJECT_DIR$/09京东案例/京东/css/index.css" />
+        <option value="$PROJECT_DIR$/05案例/01 盒子水平居中.html" />
+        <option value="$PROJECT_DIR$/09京东案例/京东/css/base.css" />
+        <option value="$PROJECT_DIR$/09京东案例/京东/index_test.html" />
+        <option value="$PROJECT_DIR$/09京东案例/京东/css/self.css" />
       </list>
     </option>
   </component>
@@ -181,7 +266,25 @@
             <path>
               <item name="WEB_CssStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="WEB_CssStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="07案例" type="462c0819:PsiDirectoryNode" />
+              <item name="06案例" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WEB_CssStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WEB_CssStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="09京东案例" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WEB_CssStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WEB_CssStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="09京东案例" type="462c0819:PsiDirectoryNode" />
+              <item name="京东" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WEB_CssStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WEB_CssStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="09京东案例" type="462c0819:PsiDirectoryNode" />
+              <item name="京东" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -192,22 +295,25 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.chrisrm.idea.config" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/07案例" />
-      <recent name="$PROJECT_DIR$/08案例/综合案例" />
-      <recent name="$PROJECT_DIR$/08案例" />
-      <recent name="$PROJECT_DIR$/04案例/Test/images" />
-      <recent name="$PROJECT_DIR$/05案例" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/05案例/14 云道页面/Test" />
       <recent name="$PROJECT_DIR$/案例/03外链" />
       <recent name="$PROJECT_DIR$/案例/04类选择器" />
       <recent name="$PROJECT_DIR$/案例/04google" />
       <recent name="$PROJECT_DIR$/案例/01江南" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/09京东案例/京东/css" />
+      <recent name="$PROJECT_DIR$/09京东案例/京东" />
+      <recent name="$PROJECT_DIR$/07案例" />
+      <recent name="$PROJECT_DIR$/06案例" />
+      <recent name="$PROJECT_DIR$/05案例/14 云道页面/Test/image" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -236,17 +342,24 @@
       <workItem from="1558672627871" duration="1280000" />
       <workItem from="1558959347130" duration="2595000" />
       <workItem from="1559007232749" duration="10476000" />
-      <workItem from="1559785004414" duration="4338000" />
+      <workItem from="1559785004414" duration="4482000" />
+      <workItem from="1560144250287" duration="330000" />
+      <workItem from="1560474931899" duration="1448000" />
+      <workItem from="1560513530093" duration="1748000" />
+      <workItem from="1560857942058" duration="8232000" />
+      <workItem from="1562033008080" duration="3892000" />
+      <workItem from="1562140567573" duration="21771000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19048000" />
+    <option name="totallyTimeSpent" value="56613000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2907069" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26449564" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -258,7 +371,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.31792718" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.31792718" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -266,7 +379,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2907069" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26449564" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -278,7 +391,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.31792718" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.31792718" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -293,269 +406,302 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/案例/07 html版的样式.html" />
-    <entry file="file://$PROJECT_DIR$/01案例/04类选择器/类选择器.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01案例/01忆江南/忆江南.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01案例/03外链/css/style.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01案例/03外链/外链.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/案例/btn.png" />
-    <entry file="file://$PROJECT_DIR$/01案例/06世纪佳缘/demo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01案例/05google/google.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01案例/02 小说排行榜/demo.html">
+    <entry file="file://$PROJECT_DIR$/07案例/01 显示与隐藏.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01案例/Test/Table.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01案例/07分割线/分割线.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01案例/07分割线/保障协议.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02案例/07 开发者工具.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03案例/09 子代选择器.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04案例/01 注意点.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05案例/01 盒子水平居中.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06案例/08 父亲没定位.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07案例/08  精灵图使用.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03案例/14 实际开发中的伪类链接.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03案例/15 测试题.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04案例/21 新闻列表.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="19" selection-start-line="24" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04案例/04 尖叫导航栏/demo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04案例/11 购物车/110.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04案例/11 购物车/car.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04案例/css 权重精华6题/CSS优先级第1题.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04案例/搜索趣图-要做/images/sun.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04案例/搜索趣图-要做/images/square.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04案例/搜索趣图-要做/images/happy.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04案例/Test/最新文章.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="33" column="3" selection-start-line="33" selection-start-column="3" selection-end-line="41" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04案例/搜索趣图-要做/搜索趣图4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04案例/Test/搜索趣图.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04案例/新闻列表-要做/images/bg.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04案例/新闻列表-要做/images/tb.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04案例/新闻列表-要做/news.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-145">
-          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04案例/鲁能-能者做/鲁能.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1275">
-          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04案例/能力掌握.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05案例/导航栏案例/images/button1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05案例/导航栏案例/images/banner_bg.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05案例/导航栏案例/images/banner1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05案例/导航栏案例/images/button1_bg.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05案例/导航栏案例/images/button2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05案例/导航栏案例/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="18" column="58" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05案例/14 云道页面/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/07案例/02 仿土豆显示透明盒子.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+        <state relative-caret-position="178">
+          <caret line="18" selection-start-line="18" selection-end-line="19" selection-end-column="16" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07案例/03 溢出隐藏.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07案例/04 鼠标样式.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07案例/05 轮廓线.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07案例/06 vertical-align你要知道.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07案例/07 溢出文字省略号.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="6" lean-forward="true" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07案例/images/index.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07案例/08  精灵图使用.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07案例/02 仿土豆显示透明盒子Test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="27" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07案例/images/abcd.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07案例/09 拼出自己名字.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07案例/10 滑动门.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="6" lean-forward="true" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07案例/images/wx.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07案例/images/to.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07案例/11 微信滑动门.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="20" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07案例/11 微信滑动门Test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07案例/练习.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07案例/images/ao.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07案例/练习Test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="26" column="21" lean-forward="true" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07案例/云道页面/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-232" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/08案例/01 复习.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        <state relative-caret-position="90">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/08案例/fonts/icomoon.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/08案例/02 字体图标引用.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        <state relative-caret-position="120">
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/08案例/03 行高不带单位.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        <state relative-caret-position="210">
+          <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/08案例/demo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        <state relative-caret-position="270">
+          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08案例/jd/index.html">
+    <entry file="file://$PROJECT_DIR$/09京东案例/京东/images/header.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09京东案例/京东/images/mobile.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06案例/14 淘宝轮播图.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09京东案例/手机.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/1.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/2.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09京东案例/2017-12-12_210506.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09京东案例/bg.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/sectional.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08案例/京东首页/京东/index.html">
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/structural.rnc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        <state relative-caret-position="223">
+          <caret line="129" column="16" selection-start-line="129" selection-start-column="16" selection-end-line="129" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05案例/01 盒子水平居中.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="18" selection-start-line="9" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09京东案例/京东/images/toolbars.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09京东案例/京东/css/normalize.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5786">
+          <caret line="40" column="4" lean-forward="true" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09京东案例/京东/images/super.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09京东案例/京东/images/ad-l.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09京东案例/京东/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06案例/14 淘宝轮播图Test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="58" column="24" lean-forward="true" selection-start-line="58" selection-start-column="24" selection-end-line="58" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09京东案例/京东/images/banner.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09京东案例/京东/images/l.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09京东案例/京东/images/sprite_userinfo@1x.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09京东案例/京东/images/no_login.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09京东案例/京东/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="914">
+          <caret line="235" column="16" lean-forward="true" selection-start-line="235" selection-start-column="16" selection-end-line="235" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09京东案例/京东/index_test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="276" column="17" selection-start-line="276" selection-start-column="17" selection-end-line="276" selection-end-column="17" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#1;n#ul#0;n#div#2;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#2;n#ul#0;n#div#2;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09京东案例/京东/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="372" column="18" selection-start-line="372" selection-end-line="420" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#ul#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#0;n#ul#0;n#div#2;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#1;n#ul#0;n#div#2;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#2;n#ul#0;n#div#2;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#footer#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09京东案例/京东/css/self.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="412" column="16" selection-start-line="412" selection-start-column="16" selection-end-line="412" selection-end-column="16" />
         </state>
       </provider>
     </entry>
